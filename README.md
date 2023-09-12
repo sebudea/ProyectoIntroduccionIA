@@ -15,5 +15,5 @@ Los datos del proyecto vienen de La competición Kaggle Titanic, y se pueden hac
 
 después de haber configurado .kaggle/kaggle.json de tal y tal manera.
 
-[Videos primera entrega](link)
-[Videos segunda entrega](link)
+* [Videos primera entrega](link)
+* [Videos segunda entrega](link)
