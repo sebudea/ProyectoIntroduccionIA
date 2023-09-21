@@ -5,7 +5,6 @@
 * Jhon Haider Loaiza, CC 1.020.436.600, Ingeniería de Sistemas
 * Sebastian Aristizabal Castañeda, CC 1.000.639.678, Ingeniería de Sistemas
 
-## Link Dataset Kaggle
 [Dataset](https://www.kaggle.com/datasets/danieleduardofajardo/colombia-house-prediction)
 
 ## Datos
