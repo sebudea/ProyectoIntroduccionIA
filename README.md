@@ -2,7 +2,7 @@
 
 ## Miembros del grupo
 * Carlos Casas Arenas, CC 1.000.406.984, Ingeniería de Sistemas
-* Jhon Haider Loaiza, CC xxxxx, Ingeniería de Sistemas
+* Jhon Haider Loaiza, CC 1.020.436.600, Ingeniería de Sistemas
 * Sebastian Aristizabal Castañeda, CC 1.000.639.678, Ingeniería de Sistemas
 
 ## Datos
