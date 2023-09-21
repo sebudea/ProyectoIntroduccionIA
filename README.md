@@ -5,15 +5,18 @@
 * Jhon Haider Loaiza, CC 1.020.436.600, Ingeniería de Sistemas
 * Sebastian Aristizabal Castañeda, CC 1.000.639.678, Ingeniería de Sistemas
 
+## Link Dataset Kaggle
+[Dataset](https://www.kaggle.com/datasets/danieleduardofajardo/colombia-house-prediction)
+
 ## Datos
-Los datos del proyecto vienen de La competición Kaggle Titanic, y se pueden hacer disponibles ejecutando desde cualquier notebook en Colab los siguientes comandos
+Los datos del proyecto vienen de La competición Kaggle Colombia House Prediction, y se pueden hacer disponibles ejecutando desde cualquier notebook en Colab los siguientes comandos
 
 ```
 import pandas as pd
 !wget https://raw.githubusercontent.com/CodingWithNoDirection/DatosPredictivos1/main/Sales_prediction_Colombia.csv
 df = pd.read_csv('Sales_prediction_Colombia.csv')
 ```
-[Dataset](https://www.kaggle.com/datasets/danieleduardofajardo/colombia-house-prediction)
+
 
 * [Videos primera entrega](link)
 * [Videos segunda entrega](link)
