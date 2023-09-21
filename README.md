@@ -12,7 +12,7 @@ Los datos del proyecto vienen de La competición Kaggle Titanic, y se pueden hac
 ! comando
 ! comando
 ```
-* [Dataset](https://www.kaggle.com/datasets/danieleduardofajardo/colombia-house-prediction)
+[Dataset](https://www.kaggle.com/datasets/danieleduardofajardo/colombia-house-prediction)
 
 después de haber configurado .kaggle/kaggle.json de tal y tal manera.
 
