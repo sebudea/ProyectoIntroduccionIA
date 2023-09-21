@@ -9,12 +9,11 @@
 Los datos del proyecto vienen de La competición Kaggle Titanic, y se pueden hacer disponibles ejecutando desde cualquier notebook en Colab los siguientes comandos
 
 ```
-! comando
-! comando
+import pandas as pd
+!wget https://raw.githubusercontent.com/CodingWithNoDirection/DatosPredictivos1/main/Sales_prediction_Colombia.csv
+df = pd.read_csv('Sales_prediction_Colombia.csv')
 ```
 [Dataset](https://www.kaggle.com/datasets/danieleduardofajardo/colombia-house-prediction)
-
-después de haber configurado .kaggle/kaggle.json de tal y tal manera.
 
 * [Videos primera entrega](link)
 * [Videos segunda entrega](link)
