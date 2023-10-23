@@ -14,5 +14,5 @@ import pandas as pd
 df = pd.read_csv('Sales_prediction_Colombia.csv')
 ```
 
-## Datos
+## Videos
 * [Video segunda entrega]()
