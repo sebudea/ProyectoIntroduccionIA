@@ -13,3 +13,6 @@ import pandas as pd
 !wget https://raw.githubusercontent.com/CodingWithNoDirection/DatosPredictivos1/main/Sales_prediction_Colombia.csv
 df = pd.read_csv('Sales_prediction_Colombia.csv')
 ```
+
+## Datos
+* [Video segunda entrega]()
