@@ -14,4 +14,4 @@ df = pd.read_csv('Sales_prediction_Colombia.csv')
 ```
 
 ## Videos
-* [Video segunda entrega]()
+* [Video segunda entrega](https://www.youtube.com/watch?v=oRsmBiFf3k4)
